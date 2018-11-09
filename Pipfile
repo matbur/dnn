@@ -10,6 +10,7 @@ pandas = "*"
 
 [dev-packages]
 twine = "*"
+ptipython = "*"
 
 [requires]
 python_version = "3.7"
